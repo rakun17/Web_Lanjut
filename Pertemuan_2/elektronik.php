@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title> Penggunaan Input Type Checkbox di HTML dan PHP</title>
+  <title>Tugas Pekan 2 web lanjut</title>
   <style>
     #tbl,
     #row,
